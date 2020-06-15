@@ -1,0 +1,9 @@
+C:\Users\DIMA\source\repos\Алена Дебил\Алена Дебил\obj\Debug\Алена Дебил.csprojAssemblyReference.cache
+C:\Users\DIMA\source\repos\Алена Дебил\Алена Дебил\obj\Debug\Алена_Дебил.Properties.Resources.resources
+C:\Users\DIMA\source\repos\Алена Дебил\Алена Дебил\obj\Debug\Алена Дебил.csproj.GenerateResource.cache
+C:\Users\DIMA\source\repos\Алена Дебил\Алена Дебил\obj\Debug\Алена_Дебил.Form1.resources
+C:\Users\DIMA\source\repos\Алена Дебил\Алена Дебил\bin\Debug\Алена Дебил.exe.config
+C:\Users\DIMA\source\repos\Алена Дебил\Алена Дебил\bin\Debug\Алена Дебил.exe
+C:\Users\DIMA\source\repos\Алена Дебил\Алена Дебил\bin\Debug\Алена Дебил.pdb
+C:\Users\DIMA\source\repos\Алена Дебил\Алена Дебил\obj\Debug\Алена Дебил.exe
+C:\Users\DIMA\source\repos\Алена Дебил\Алена Дебил\obj\Debug\Алена Дебил.pdb
